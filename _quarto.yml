@@ -1,0 +1,12 @@
+project:
+  title: "QML assessment"
+  execute-dir: project
+
+format:
+  html:
+    number-sections: true
+  pdf:
+    number-sections: true
+
+execute:
+  freeze: false
